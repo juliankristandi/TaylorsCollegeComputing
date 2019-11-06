@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Point3D
+comment0.text=\r\n\ Project\ 1\r\n\r\n\ @author\ (Ignatius\ Julian\ Kristandi)\r\n\ @version\ (4\ December\ 2017)\r\n
+comment1.params=
+comment1.target=Point3D()
+comment1.text=\r\n\ Constructor\ for\ x\ y\ z\ \=\ 0\r\n
+comment2.params=x\ y\ z
+comment2.target=Point3D(double,\ double,\ double)
+comment2.text=\r\n\ Constructor\ for\ setting\ x\ y\ z\r\n
+comment3.params=
+comment3.target=double\ XValue1()
+comment3.text=\r\n\ Get\ values\ for\ x\ y\ z\r\n
+comment4.params=
+comment4.target=double\ YValue1()
+comment5.params=
+comment5.target=double\ ZValue1()
+comment6.params=
+comment6.target=double\ XValue2()
+comment7.params=
+comment7.target=double\ YValue2()
+comment8.params=
+comment8.target=double\ ZValue2()
+comment9.params=xx\ yy\ zz
+comment9.target=double\ distance(double,\ double,\ double)
+numComments=10

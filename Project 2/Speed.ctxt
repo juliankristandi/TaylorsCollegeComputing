@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Speed
+comment1.params=
+comment1.target=int[]\ getSpeed()
+comment1.text=\r\n\ Returns\ an\ array\ of\ NSPEED\ integer\ speed\ approximately\ normally\ distributed,\r\n\ with\ specified\ mean\ (mean)\ and\ standard\ deviation\ (std),\r\n\ and\ with\ values\ outside\ 0..100\ removed.\r\n\ @return\ the\ array\ of\ marks.\r\n
+numComments=2
